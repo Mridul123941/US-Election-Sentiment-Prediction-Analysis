@@ -35,7 +35,7 @@ This project analyzes public sentiment from Twitter around the 2020 US President
 > **Protest voting** occurs when voters **cast their vote not to support a preferred candidate, but to oppose another**.  
 > In this analysis, negative sentiment toward one candidate often corresponded with a rise in positive sentiment for the opponent — indicating indirect voter preferences.
 >
-> <img width="1280" height="633" alt="image" src="https://github.com/user-attachments/assets/14946299-1c98-4db0-9109-c8f073515e67" />
+> <img width="980" height="484" alt="image" src="https://github.com/user-attachments/assets/14946299-1c98-4db0-9109-c8f073515e67" />
 
 
 ---
